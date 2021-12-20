@@ -1,4 +1,4 @@
-### Hi there, I'm [Louis!] 👋.
+### Hi there, I'm Louis! 👋.
 
 <br/>
 
