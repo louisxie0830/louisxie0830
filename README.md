@@ -11,6 +11,11 @@
      alt="louisxie0830" />
 </p>
 <br/> -->
+<p>
+   <a href="https://app.daily.dev/louis">
+    <img src="https://api.daily.dev/devcards/1f50ddf2796d4347aada096fb90aad2f.png?r=zyx" width="400" alt="Louis Xie's Dev Card"/>
+  </a>
+</p>
 
 <p>
 <!-- GitHub Stats -->
