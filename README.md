@@ -11,15 +11,15 @@
      alt="louisxie0830" />
 </p>
 <br/> -->
-<p>
+<!-- <p>
    <a href="https://app.daily.dev/louis">
     <img src="https://api.daily.dev/devcards/1f50ddf2796d4347aada096fb90aad2f.png?r=zyx" width="400" alt="Louis Xie's Dev Card"/>
   </a>
-</p>
+</p> -->
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=louisxie0830&show_icons=true&hide_border=true" alt="louisxie0830"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louisxie0830&show_icons=true&hide_border=true" alt="louisxie0830"/> -->
 
 <br/>
 <br/>
