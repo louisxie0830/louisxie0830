@@ -1,7 +1,16 @@
 <h1 align="center">Hi, I'm Nil Xie<br><br></h1>
 
+<h2>👨🏻‍💻 About Me</h2>
+<p>Experienced programmer on front-end development. Focused on building rock-solid, beautiful, accessible websites,
+and have 6+ years of experience. Specialized in Javascript 、Angular、Vuejs、React.</p>
+<ul>
+  <li>Experience in web development (Angularjs, Vue, React)</li>
+  <li>Experience in Git & GitHub workflow (Github, GitLab, bitbucket)</li>
+  <li>Familiar with HTML5,CSS3,JavaScript,jQuery.</li>
+  <li>Familiar with front-end development (Angularjs, Vue, Vuex, React, Redux, Webpack)</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a
   href="https://www.linkedin.com/in/nil-xie-583862122/" target="blank">
