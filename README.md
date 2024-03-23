@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nil Xie<br><br></h1>
 
-<h2>👨🏻‍💻 About Me</h2>
+<h2 align="center">👨🏻‍💻 About Me</h2>
 <p>Experienced programmer on front-end development. Focused on building rock-solid, beautiful, accessible websites,
 and have 6+ years of experience. Specialized in Javascript 、Angular、Vuejs、React.</p>
 
@@ -11,7 +11,7 @@ and have 6+ years of experience. Specialized in Javascript 、Angular、Vuejs、
 
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="center">Connect with me:</h2>
 <p align="left">
 <a
   href="https://www.linkedin.com/in/nil-xie-583862122/" target="blank">
