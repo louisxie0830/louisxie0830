@@ -1,5 +1,15 @@
 <h1 align="center">Hi, I'm Nil Xie<br><br></h1>
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a
+  href="https://www.linkedin.com/in/nil-xie-583862122/" target="blank">
+  <img
+  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adeema-amir-75a97426a/" height="30" width="40" />
+</a>
+
+
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -21,3 +31,4 @@
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+<img src="https://raw.githubusercontent.com/Ruan-Portella/ruan-portella/output/github-contribution-grid-snake.svg" alt="red"/>
