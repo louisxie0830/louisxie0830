@@ -4,10 +4,10 @@
 <p>Experienced programmer on front-end development. Focused on building rock-solid, beautiful, accessible websites,
 and have 6+ years of experience. Specialized in Javascript 、Angular、Vuejs、React.</p>
 
-- [x]Experience in web development (Angularjs, Vue, React)
-- [x]>Experience in Git & GitHub workflow (Github, GitLab, bitbucket)
-- [x]Familiar with HTML5,CSS3,JavaScript,jQuery.
-- [x]Familiar with front-end development (Angularjs, Vue, Vuex, React, Redux, Webpack)
+- Experience in web development (Angularjs, Vue, React)
+- Experience in Git & GitHub workflow (Github, GitLab, bitbucket)
+- Familiar with HTML5,CSS3,JavaScript,jQuery.
+- Familiar with front-end development (Angularjs, Vue, Vuex, React, Redux, Webpack)
 
 
 
