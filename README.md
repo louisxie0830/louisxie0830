@@ -3,12 +3,13 @@
 <h2>👨🏻‍💻 About Me</h2>
 <p>Experienced programmer on front-end development. Focused on building rock-solid, beautiful, accessible websites,
 and have 6+ years of experience. Specialized in Javascript 、Angular、Vuejs、React.</p>
-<ul>
-  <li>Experience in web development (Angularjs, Vue, React)</li>
-  <li>Experience in Git & GitHub workflow (Github, GitLab, bitbucket)</li>
-  <li>Familiar with HTML5,CSS3,JavaScript,jQuery.</li>
-  <li>Familiar with front-end development (Angularjs, Vue, Vuex, React, Redux, Webpack)</li>
-</ul>
+<p>
+  - [x]Experience in web development (Angularjs, Vue, React)
+  - [x]>Experience in Git & GitHub workflow (Github, GitLab, bitbucket)
+  - [x]Familiar with HTML5,CSS3,JavaScript,jQuery.
+  - [x]Familiar with front-end development (Angularjs, Vue, Vuex, React, Redux, Webpack)
+</p>
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
