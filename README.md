@@ -11,7 +11,7 @@ and have 6+ years of experience. Specialized in Javascript 、Angular、Vuejs、
 
 
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me</h2>
 <p align="left">
 <a
   href="https://www.linkedin.com/in/nil-xie-583862122/" target="blank">
