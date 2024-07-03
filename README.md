@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nil Xie<br><br></h1>
+<h1 align="center">Hi, I'm Louis Xie<br><br></h1>
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 <p>Experienced programmer on front-end development. Focused on building rock-solid, beautiful, accessible websites,
@@ -14,7 +14,7 @@ and have 6+ years of experience. Specialized in Javascript 、Angular、Vuejs、
 <h2 align="center">Connect with me</h2>
 <p align="left">
 <a
-  href="https://www.linkedin.com/in/nil-xie-583862122/" target="blank">
+  href="https://www.linkedin.com/in/louis-xie-583862122/" target="blank">
   <img
   align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adeema-amir-75a97426a/" height="30" width="40" />
 </a>
